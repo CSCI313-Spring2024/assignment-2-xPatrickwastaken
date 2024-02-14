@@ -1,0 +1,27 @@
+body{
+    padding-top:50px;
+}
+
+ol li {
+    background: rgb(170, 229, 240);
+    color: #222;
+    padding: 5px;
+    margin-left: 35px;
+    margin-right: 40px;
+  }
+
+ul li {
+    background: #222;
+    color: rgb(170, 229, 240);
+    padding: 5px;
+    margin-left: 40px;
+    margin-right: 35px;
+}
+
+footer {
+    text-align: center;
+    font-size: large;
+    padding: 3px;
+    background-color: rgb(31, 108, 196);
+    color: white;
+  }
